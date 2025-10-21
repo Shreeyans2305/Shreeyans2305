@@ -2,9 +2,6 @@
 
 ### A passionate self taught developer trying to learn a little bit of everything to make the world a better place!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shreeyans2305&label=Profile views&color=0e75b6&style=flat" alt="Shreeyans2305" /> </p>
-
-<p align="left"> <a href="https://twitter.com/MelonTrillon" target="blank"><img src="https://img.shields.io/twitter/follow/MelonTrillon?logo=twitter&style=for-the-badge" alt="MelonTrillon" /></a> </p>
 
 - 🔭 I'm currently working on **A personal portfolio website
 A complete Python Package for accurately displaying time complexities for algorithms
