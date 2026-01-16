@@ -7,11 +7,11 @@
 A complete Python Package for accurately displaying time complexities for algorithms
 An F1 predictor with the help of Machine Learning in Python using the FastF1 dataset**
 
-- 🌱 I'm currently learning **MySQL and NoSQL
-Java
-React
-Machine Learning in Python
-Data Structures in C**
+- 🌱 I'm currently learning **MySQL and NoSQL, 
+Java, 
+React, 
+Machine Learning in Python, 
+Data Structures in C.**
 
 - 👯 I'm looking to collaborate on **Open source projects furthering social welfare, big data projects and research projects exploring any topics from tech to outer space.**
 
