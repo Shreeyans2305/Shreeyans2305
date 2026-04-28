@@ -36,7 +36,7 @@
 ![Languages](https://skillicons.dev/icons?i=c,cs,java,js,py,html,css)
 
 ### Frameworks & Libraries
-![Frameworks](https://skillicons.dev/icons?i=react,fastapi,nodejs,dotnet,tensorflow,scikitlearn)
+![Frameworks](https://skillicons.dev/icons?i=react,fastapi,tensorflow,scikitlearn)
 
 ### Data & ML
 
