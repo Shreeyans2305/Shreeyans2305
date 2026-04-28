@@ -58,8 +58,6 @@
 
 <div align="center">
 
-![Shreeyans' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreeyans2305&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeyans2305&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shreeyans2305&theme=tokyonight&hide_border=true)
