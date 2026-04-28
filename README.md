@@ -33,7 +33,7 @@
 ## 🛠️ Languages & Tools
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=c,cs,java,js,py,html,css)
+![Languages](https://skillicons.dev/icons?i=c,java,js,py,html,css)
 
 ### Frameworks & Libraries
 ![Frameworks](https://skillicons.dev/icons?i=react,fastapi,tensorflow,scikitlearn)
