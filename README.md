@@ -4,7 +4,7 @@
 
 ### Self-taught developer on a mission to make the world a better place — one line of code at a time.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vAlign=middle&width=435&lines=Full-Stack+Developer;ML+%26+Data+Science+Enthusiast;Open+Source+Contributor;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vAlign=middle&width=435&lines=Full-Stack+Developer;ML+%26+Data+Science+Enthusiast;Open+Source+Contributor;Lifelong+Learner;Space+Nerd)](https://git.io/typing-svg)
 
 </div>
 
