@@ -1,46 +1,106 @@
-# Hi 👋, I'm Shreeyans Vichare
+<div align="center">
 
-### A passionate self taught developer trying to learn a little bit of everything to make the world a better place!
+# Hey there, I'm Shreeyans Vichare 👋
 
+### Self-taught developer on a mission to make the world a better place — one line of code at a time.
 
-- 🔭 I'm currently working on **A personal portfolio website
-A complete Python Package for accurately displaying time complexities for algorithms
-An F1 predictor with the help of Machine Learning in Python using the FastF1 dataset**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vAlign=middle&width=435&lines=Full-Stack+Developer;ML+%26+Data+Science+Enthusiast;Open+Source+Contributor;Lifelong+Learner)](https://git.io/typing-svg)
 
-- 🌱 I'm currently learning **MySQL and NoSQL, 
-Java, 
-React, 
-Machine Learning in Python, 
-Data Structures in C.**
+</div>
 
-- 👯 I'm looking to collaborate on **Open source projects furthering social welfare, big data projects and research projects exploring any topics from tech to outer space.**
+---
 
-- 🤝 I'm looking for help with **A roadmap for the mathematics required for certain ML concepts and learning integration and structuring of web apps.**
+## 🙋 About Me
 
-- 💬 Ask me about **C, Java, Python, Pandas, Numpy & Tensorflow and ML, and building web apps with React with a Python backend**
+- 🔭 Currently building a **personal portfolio**, a **Python time complexity analyser package**, and an **F1 race predictor** using ML + FastF1
+- 🌱 Actively learning **MySQL & NoSQL**, **Java**, **React**, **Machine Learning**, and **Data Structures in C**
+- 👯 Looking to collaborate on **open source projects** focused on social welfare, big data, and cross-disciplinary research
+- 🤝 Looking for help with a **math roadmap for ML** and **web app architecture** (React + Python backend)
+- ⚡ Fun fact: I delusionally believe I can change the world with this tiny screen I keep staring at
 
-- 📫 How to reach me **shreeyans.vichare@gmail.com**
+---
 
-- ⚡ Fun fact **I delusionally believe that I can change the world with this tiny screen I keep staring at**
+## 🚀 Current Projects
 
-- 👨‍💻 All of my projects are available at **[https://www.shreeyans2305.github.io/MyPortfolio](https://www.shreeyans2305.github.io/MyPortfolio)**
+| Project | Description | Status |
+|--------|-------------|--------|
+| 🌐 Personal Portfolio | Showcasing my work and journey | 🔨 In Progress |
+| ⏱️ Python Time Complexity Analyser | A package for accurately displaying algorithm time complexities | 🔨 In Progress |
+| 🏎️ F1 Race Predictor | ML-powered predictions using the FastF1 dataset | 🔨 In Progress |
 
-- 📄 Know about my experiences **[https://drive.google.com/drive/folders/1F4fiUJgk3v2prEZxHr8IgUj0gZfK8uZb?usp=sharing](https://drive.google.com/drive/folders/1F4fiUJgk3v2prEZxHr8IgUj0gZfK8uZb?usp=sharing)**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Shreeyans2305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Shreeyans2305" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shreeyans-vichare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreeyans-vichare" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18249473" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18249473" height="30" width="40" /></a>
-<a href="https://kaggle.com/trillonmelon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="trillonmelon" height="30" width="40" /></a>
-<a href="https://twitter.com/MelonTrillon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MelonTrillon" height="30" width="40" /></a>
-<a href="https://hackerrank.com/trillon_melin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="trillon_melin" height="30" width="40" /></a>
-<a href="https://leetcode.com/ShreeyansV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ShreeyansV" height="30" width="40" /></a>
-</p>
+## 🛠️ Languages & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+### Languages
+![Languages](https://skillicons.dev/icons?i=c,cs,java,js,py,html,css)
 
-### 📊 My Coding Stats for the week
+### Frameworks & Libraries
+![Frameworks](https://skillicons.dev/icons?i=react,fastapi,nodejs,dotnet,tensorflow,scikitlearn)
 
-![Wakatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=25679&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&langs_count=8&theme=dark)
+### Data & ML
+
+<table><tr>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="Jupyter"/></td>
+<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" alt="Keras"/></td>
+<td><img src="https://skillicons.dev/icons?i=anaconda" width="40" height="40" alt="Anaconda"/></td>
+</tr></table>
+
+### Databases & DevOps
+![Databases](https://skillicons.dev/icons?i=mysql,mongodb,git,linux)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Shreeyans' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreeyans2305&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeyans2305&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shreeyans2305&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## ⏱️ Coding Activity
+
+<div align="center">
+
+![Wakatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=25679&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Shreeyans2305-181717?style=for-the-badge&logo=github)](https://github.com/Shreeyans2305)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shreeyans--vichare-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shreeyans-vichare)
+[![Twitter](https://img.shields.io/badge/Twitter-MelonTrillon-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/MelonTrillon)
+[![Kaggle](https://img.shields.io/badge/Kaggle-trillonmelon-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/trillonmelon)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ShreeyansV-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/ShreeyansV)
+[![HackerRank](https://img.shields.io/badge/HackerRank-trillon__melin-00EA64?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/trillon_melin)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-18249473-F58025?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/18249473)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6C63FF?style=for-the-badge&logo=google-chrome)](https://shreeyans2305.github.io/MyPortfolio)
+[![Resume](https://img.shields.io/badge/Resume-View-34A853?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1F4fiUJgk3v2prEZxHr8IgUj0gZfK8uZb?usp=sharing)
+[![Email](https://img.shields.io/badge/Email-shreeyans.vichare%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:shreeyans.vichare@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shreeyans2305&color=blue&style=flat-square)
+
+*"The best error message is the one that never shows up."* — Thomas Fuchs
+
+</div>
