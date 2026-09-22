@@ -87,7 +87,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-ShreeyansV-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/ShreeyansV)
 [![HackerRank](https://img.shields.io/badge/HackerRank-trillon__melin-00EA64?style=for-the-badge&logo=hackerrank)](https://hackerrank.com/trillon_melin)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-18249473-F58025?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/18249473)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6C63FF?style=for-the-badge&logo=google-chrome)](https://shreeyans2305.github.io/MyPortfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-6C63FF?style=for-the-badge&logo=google-chrome)](https://shreeyans2305.github.io)
 [![Resume](https://img.shields.io/badge/Resume-View-34A853?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1F4fiUJgk3v2prEZxHr8IgUj0gZfK8uZb?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-shreeyans.vichare%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:shreeyans.vichare@gmail.com)
 
