@@ -102,3 +102,16 @@
 *"The best error message is the one that never shows up."* — Thomas Fuchs
 
 </div>
+
+
+## ☕ Support My Work
+
+<div align="center">
+
+If you like my work and want to support my journey, consider buying me a coffee!
+
+<a href="https://www.buymeacoffee.com/shreeyans">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=shreeyans&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" />
+</a>
+
+</div>
